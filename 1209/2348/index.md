@@ -1,7 +1,7 @@
 ---
 layout: pid
 title: ScOpen - A Low-Cost Scope
-owner: TillS
+owner: till-s
 license: MIT, CERN-OHL-P
 site: https://github.com/till-s/ScOpen
 source: https://github.com/till-s/ScOpen
